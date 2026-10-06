@@ -19,4 +19,4 @@ A collection of my **professional certifications, technical training, hackathons
 
 > This repository is continuously updated with new certifications and achievements.
 
-**© 2026 Kulkarni **
+**© 2026 Kulkarni Atharva **
